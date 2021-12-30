@@ -1,34 +1,33 @@
 [
-  {
-    "name": "Office",
-    "cover": "https://i.pinimg.com/564x/f2/49/c6/f249c653f09fa1fa5f231dd884c4f4ce.jpg",
-    "colour": "white",
-    "walls": [
-      {
-        "name": "A",
-        "hasWindows": false,
-        "dimensions": {
-          "height": 157,
-          "width": 200
-        }
-      }
-    ],
-    "windows": [
-      {
-        "height": 157,
-        "width": 200,
-        "cost": 60
-      }
-    ],
-    "door":
-      {
-        "height": 157,
-        "width": 200,
-        "cost": 60
-      },
-    "dimensions": {
-      "height": 157,
-      "width": 200
-    }
-  }
+	{
+		"name": "Office",
+		"cover": "https://i.pinimg.com/564x/f2/49/c6/f249c653f09fa1fa5f231dd884c4f4ce.jpg",
+		"colour": "white",
+		"walls": [
+			{
+				"name": "A",
+				"hasWindows": false,
+				"dimensions": {
+					"height": 157,
+					"width": 200
+				}
+			}
+		],
+		"windows": [
+			{
+				"height": 157,
+				"width": 200,
+				"cost": 60
+			}
+		],
+		"door": {
+			"height": 157,
+			"width": 200,
+			"cost": 60
+		},
+		"dimensions": {
+			"height": 157,
+			"width": 200
+		}
+	}
 ]
